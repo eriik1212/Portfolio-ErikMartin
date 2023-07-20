@@ -1,0 +1,36 @@
+.project{
+    width: 400px;
+    border: 1px solid red;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+    min-height: 300px;
+    max-height: 1000px;
+}
+
+.project img{
+    width: 350px;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.project p{
+    text-align: justify;
+}
+
+.project a{
+    text-decoration: none;
+    color: #19A7CE;
+}
+
+.hidden{
+    display:none;
+}
+
+.shown{
+    height: 250px;
+    display:flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
