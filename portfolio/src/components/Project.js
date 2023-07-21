@@ -9,7 +9,7 @@ export default function Project({title, description, pict, online}) {
         <h3>{title}</h3>
         <div className='shown'>
             <p>{description}</p>
-            <a href={online}>More information</a>
+            <a href={online} target='_blank'>More information</a>
         </div>
     </div>
   )
