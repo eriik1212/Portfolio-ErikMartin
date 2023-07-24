@@ -1,0 +1,50 @@
+.loading{
+    width: 100vw;
+    height: 100vh;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.loading img{
+    width: 20%;
+    transition: 0.4s;
+    min-width: 250px;
+}
+
+.loading img:hover{
+    transform: scale3d(1.05,1.05,1.05);
+}
+
+.loading-text h1{
+    text-transform: uppercase;
+    font-family: 'Poppins';
+    font-size: 60px;
+
+    padding: 5px;
+    text-align: center;
+}
+
+.loading-text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.loading-text p{
+    text-align: center;
+}
+
+.loading-text p a{
+    text-decoration: none;
+    color: rgb(17, 223, 238);
+}
+
+@media (max-width: 800px) {
+    .loading-text h1{
+        font-size: 40px;
+    }
+}
