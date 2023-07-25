@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5d20bd7a.css",
+    "main.js": "/static/js/main.5e74662c.js",
+    "static/media/combat.png": "/static/media/combat.30e06a353285865241f3.png",
+    "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/profilePict.jpg": "/static/media/profilePict.925e299c45edc63ac85c.jpg",
+    "static/media/linkedin.png": "/static/media/linkedin.df3f373c358bcfdd92bb.png",
+    "static/media/android-chrome-512x512.png": "/static/media/android-chrome-512x512.ed26482f6330490b914c.png",
+    "static/media/GitHub_Invertocat_Logo.svg": "/static/media/GitHub_Invertocat_Logo.8fe5f048b11793dbcfb6094fada31ff5.svg",
+    "index.html": "/index.html",
+    "main.5d20bd7a.css.map": "/static/css/main.5d20bd7a.css.map",
+    "main.5e74662c.js.map": "/static/js/main.5e74662c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5d20bd7a.css",
+    "static/js/main.5e74662c.js"
+  ]
+}
