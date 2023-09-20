@@ -62,3 +62,18 @@
     text-align: center;
     width: 60%;
 }
+
+
+@media (max-width: 1200px) {
+    .home{
+        flex-direction: column;
+    }
+
+    .home-texts{
+        height: 35%;
+    }
+
+    .home-texts p {
+        width: 90%;
+    }
+}

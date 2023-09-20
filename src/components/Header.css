@@ -54,3 +54,10 @@
 .header-links ul li a:hover{
     color:lightblue;
 }
+
+
+@media (max-width: 1200px) {
+    .Header{
+        display: none;
+    }
+}
