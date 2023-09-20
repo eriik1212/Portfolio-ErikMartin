@@ -1,9 +1,40 @@
 .projects{
     width: 100vw;
-    height: 90vh;
+    min-height: 90vh;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+/*     background-color: rgba(0, 0, 0, 0.75); */
+}
+
+.projects-info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+
+    height: 20vh;
+    margin-bottom: 50px;
+}
+
+.projects-info p{
+    width: 40%;
+    text-align: center;
+}
+
+
+.projects-list{
+    
+    width: 80%;
 
     display: flex;
     flex-direction: row;
     align-items: center;
-    justify-content: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+    gap: 50px;
 }

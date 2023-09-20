@@ -9,10 +9,14 @@
 
     position: sticky;
     z-index: 100;
+    top:0;
 
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px;
+/*     box-shadow: rgba(50, 50, 93, 0.25) 0px 2px 5px -1px, rgba(0, 0, 0, 0.3) 0px 1px 3px -1px; */
 
     font-family: 'Poppins';
+
+    background-color: rgba(0, 0, 0, 0.75);
+
 }
 
 .Header h1{
@@ -41,7 +45,7 @@
 
 .header-links ul li a{
     text-decoration: none;
-    color: black;
+    color: white;
     text-transform: uppercase;
     transition: 0.3s;
 }

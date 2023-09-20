@@ -5,15 +5,19 @@
     display: flex;
     flex-direction: row;
     align-items: center;
+    justify-content: space-evenly;
 }
 
 .home-texts{
-    width: 50%;
-    height: 35%;
+    width: 40%;
+    height: 55%;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
+    border-radius: 15px;
+
+
 }
 
 .texts-img {
@@ -52,9 +56,9 @@
 .home-img img{
     width: 450px;
     border-radius: 50%;
-    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
 }
 
 .home-texts p{
     text-align: center;
+    width: 60%;
 }
