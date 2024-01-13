@@ -8,47 +8,47 @@ const texts = [
         online: "https://projectwastelanders.github.io/ProjectWastelanders/"
     },
     {
-        title: "Guardians of the Galaxy: the bet",
+        title: "Echoes From the Past",
         description: "Donec finibus sit amet purus ut faucibus. Morbi suscipit efficitur metus in luctus. Nulla tempus posuere nulla. Nunc nec nisi dui. Ut in sapien quam. Cras nulla eros, mattis et facilisis nec, iaculis eget ipsum. Donec libero odio, tincidunt at neque non, venenatis facilisis metus. Nunc luctus iaculis ullamcorper.",
         img: combat,
         online: "https://projectwastelanders.github.io/ProjectWastelanders/"
     },
     {
-        title: "Guardians of the Galaxy: the bet",
+        title: "VR Defense",
         description: "Donec finibus sit amet purus ut faucibus. Morbi suscipit efficitur metus in luctus. Nulla tempus posuere nulla. Nunc nec nisi dui. Ut in sapien quam. Cras nulla eros, mattis et facilisis nec, iaculis eget ipsum. Donec libero odio, tincidunt at neque non, venenatis facilisis metus. Nunc luctus iaculis ullamcorper.",
         img: combat,
         online: "https://projectwastelanders.github.io/ProjectWastelanders/"
     },
     {
-        title: "Guardians of the Galaxy: the bet",
+        title: "Imperial Fall",
         description: "Donec finibus sit amet purus ut faucibus. Morbi suscipit efficitur metus in luctus. Nulla tempus posuere nulla. Nunc nec nisi dui. Ut in sapien quam. Cras nulla eros, mattis et facilisis nec, iaculis eget ipsum. Donec libero odio, tincidunt at neque non, venenatis facilisis metus. Nunc luctus iaculis ullamcorper.",
         img: combat,
         online: "https://projectwastelanders.github.io/ProjectWastelanders/"
     },
     {
-        title: "Guardians of the Galaxy: the bet",
+        title: "Redactor Express",
         description: "Donec finibus sit amet purus ut faucibus. Morbi suscipit efficitur metus in luctus. Nulla tempus posuere nulla. Nunc nec nisi dui. Ut in sapien quam. Cras nulla eros, mattis et facilisis nec, iaculis eget ipsum. Donec libero odio, tincidunt at neque non, venenatis facilisis metus. Nunc luctus iaculis ullamcorper.",
         img: combat,
         online: "https://projectwastelanders.github.io/ProjectWastelanders/"
     },
     {
-        title: "Guardians of the Galaxy: the bet",
+        title: "AI Park",
         description: "Donec finibus sit amet purus ut faucibus. Morbi suscipit efficitur metus in luctus. Nulla tempus posuere nulla. Nunc nec nisi dui. Ut in sapien quam. Cras nulla eros, mattis et facilisis nec, iaculis eget ipsum. Donec libero odio, tincidunt at neque non, venenatis facilisis metus. Nunc luctus iaculis ullamcorper.",
         img: combat,
         online: "https://projectwastelanders.github.io/ProjectWastelanders/"
     },
-    {
-        title: "Guardians of the Galaxy: the bet",
-        description: "Donec finibus sit amet purus ut faucibus. Morbi suscipit efficitur metus in luctus. Nulla tempus posuere nulla. Nunc nec nisi dui. Ut in sapien quam. Cras nulla eros, mattis et facilisis nec, iaculis eget ipsum. Donec libero odio, tincidunt at neque non, venenatis facilisis metus. Nunc luctus iaculis ullamcorper.",
-        img: combat,
-        online: "https://projectwastelanders.github.io/ProjectWastelanders/"
-    },
-    {
-        title: "Guardians of the Galaxy: the bet",
-        description: "Donec finibus sit amet purus ut faucibus. Morbi suscipit efficitur metus in luctus. Nulla tempus posuere nulla. Nunc nec nisi dui. Ut in sapien quam. Cras nulla eros, mattis et facilisis nec, iaculis eget ipsum. Donec libero odio, tincidunt at neque non, venenatis facilisis metus. Nunc luctus iaculis ullamcorper.",
-        img: combat,
-        online: "https://projectwastelanders.github.io/ProjectWastelanders/"
-    }
+    // {
+    //     title: "Guardians of the Galaxy: the bet",
+    //     description: "Donec finibus sit amet purus ut faucibus. Morbi suscipit efficitur metus in luctus. Nulla tempus posuere nulla. Nunc nec nisi dui. Ut in sapien quam. Cras nulla eros, mattis et facilisis nec, iaculis eget ipsum. Donec libero odio, tincidunt at neque non, venenatis facilisis metus. Nunc luctus iaculis ullamcorper.",
+    //     img: combat,
+    //     online: "https://projectwastelanders.github.io/ProjectWastelanders/"
+    // },
+    // {
+    //     title: "Guardians of the Galaxy: the bet",
+    //     description: "Donec finibus sit amet purus ut faucibus. Morbi suscipit efficitur metus in luctus. Nulla tempus posuere nulla. Nunc nec nisi dui. Ut in sapien quam. Cras nulla eros, mattis et facilisis nec, iaculis eget ipsum. Donec libero odio, tincidunt at neque non, venenatis facilisis metus. Nunc luctus iaculis ullamcorper.",
+    //     img: combat,
+    //     online: "https://projectwastelanders.github.io/ProjectWastelanders/"
+    // }
     
     // {
     //     title: "Guardians of the Galaxy: the bet",
