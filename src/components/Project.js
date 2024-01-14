@@ -1,27 +1,38 @@
-import React, { useState } from 'react'
+import React, { useState } from "react";
 
 import "./Project.css";
 
-export default function Project({num, title, description, pict, online}) {
-  
+export default function Project({ id, num, title, description, pict, online }) {
   const [hidden, setHidden] = useState(true);
 
+  const handleHidden = () => {
+    const video = document.getElementById(`video${id}`);
 
-
-  const handleHidden = () =>{
+    if (video.paused) {
+      video.play();
+    } else {
+      video.pause();
+    }
     setHidden(!hidden);
-  }
-  
-  
+  };
+
   return (
-    <div className={`project color${num}`} onClick={e => handleHidden()}>
-        <h3>{title}</h3>
-        <img src={pict}/>
-        
-        <div className={hidden ? 'hidden' : 'shown'}>
-            <p>{description}</p>
-            <a href={online} target='_blank'>More information</a>
-        </div>
+    <div className={`project color${num}`}>
+      <h3>{title}</h3>
+      <video id={`video${id}`} muted loop onClick={(e) => handleHidden(id)}>
+        <source src={pict} type="video/mp4" />
+      </video>
+
+      <div className={hidden ? "hidden" : "shown"}>
+        <p
+          dangerouslySetInnerHTML={{
+            __html: description,
+          }}
+        />
+        <a href={online} target="_blank">
+          More information
+        </a>
+      </div>
     </div>
-  )
+  );
 }

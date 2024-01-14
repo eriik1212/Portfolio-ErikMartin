@@ -1,19 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d20bd7a.css",
-    "main.js": "/static/js/main.5e74662c.js",
-    "static/media/combat.png": "/static/media/combat.30e06a353285865241f3.png",
+    "main.css": "/static/css/main.856f7a13.css",
+    "main.js": "/static/js/main.fd39564e.js",
+    "static/media/VRDefVid.mp4": "/static/media/VRDefVid.4f85b27a42f395c13305.mp4",
+    "static/media/ImpFallVid.mp4": "/static/media/ImpFallVid.1ffed645ae07165fbf09.mp4",
+    "static/media/Proj3Vid.mp4": "/static/media/Proj3Vid.dbcdedf5f19c5cdc5038.mp4",
+    "static/media/EchVid.mp4": "/static/media/EchVid.e0a36415707260ce2cbe.mp4",
+    "static/media/RedExpVid.mp4": "/static/media/RedExpVid.985e642f722db56d04a1.mp4",
     "static/media/Poppins-Regular.ttf": "/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
     "static/media/profilePict.jpg": "/static/media/profilePict.925e299c45edc63ac85c.jpg",
+    "static/media/maya.png": "/static/media/maya.5238f462846049066ce5.png",
+    "static/media/icons8-c-240.png": "/static/media/icons8-c-240.1a0782ae621f88d203c7.png",
     "static/media/linkedin.png": "/static/media/linkedin.df3f373c358bcfdd92bb.png",
-    "static/media/android-chrome-512x512.png": "/static/media/android-chrome-512x512.ed26482f6330490b914c.png",
-    "static/media/GitHub_Invertocat_Logo.svg": "/static/media/GitHub_Invertocat_Logo.8fe5f048b11793dbcfb6094fada31ff5.svg",
+    "static/media/icons8-audacity-240.png": "/static/media/icons8-audacity-240.e5445ab9b426aa399317.png",
+    "static/media/icons8-unity-500.png": "/static/media/icons8-unity-500.eb3844322e9055a15142.png",
+    "static/media/icons8-figma-480.png": "/static/media/icons8-figma-480.738add6736dde780a845.png",
+    "static/media/hack.png": "/static/media/hack.5b96f8c39dc731ec9bbb.png",
+    "static/media/GitHub_Invertocat_Logo.svg": "/static/media/GitHub_Invertocat_Logo.7d6b7d8513e06be0a531dc9303e0bafe.svg",
     "index.html": "/index.html",
-    "main.5d20bd7a.css.map": "/static/css/main.5d20bd7a.css.map",
-    "main.5e74662c.js.map": "/static/js/main.5e74662c.js.map"
+    "static/media/substance-painter.svg": "/static/media/substance-painter.9a52664e8f66348617f208d25f5b9752.svg",
+    "main.856f7a13.css.map": "/static/css/main.856f7a13.css.map",
+    "main.fd39564e.js.map": "/static/js/main.fd39564e.js.map"
   },
   "entrypoints": [
-    "static/css/main.5d20bd7a.css",
-    "static/js/main.5e74662c.js"
+    "static/css/main.856f7a13.css",
+    "static/js/main.fd39564e.js"
   ]
 }

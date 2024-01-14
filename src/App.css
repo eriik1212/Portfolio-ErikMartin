@@ -1,33 +1,31 @@
 @font-face {
-    font-family: 'Poppins';
-    src: url("./assets/Poppins-Regular.ttf");
+  font-family: "Poppins";
+  src: url("./assets/Poppins-Regular.ttf");
 }
 
-
-*{
-    margin: 0;
-    padding: 0;
-    font-family: 'Poppins';
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins";
 }
 
-html{
-    scroll-behavior: smooth;
-    overflow-x: hidden;
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
 }
 
-.space-between{
-    width: 100vw;
-    height: 10vh;
+.space-between {
+  width: 100vw;
+  height: 10vh;
 }
 
-
-.App{
-/*     background-image: url("./assets/wallpaperflare.com_wallpaper.jpg");
+.App {
+  /*     background-image: url("./assets/wallpaperflare.com_wallpaper.jpg");
     background-size:cover;
     background-repeat: no-repeat;
     background-position: top;
     background-attachment: fixed; */
 
-    background-color: #071430;
-    color:white;
+  background-color: #0a2560;
+  color: white;
 }
