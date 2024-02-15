@@ -3,6 +3,7 @@ import EchVid from "./assets/EchVid.mp4";
 import VR from "./assets/VRDefVid.mp4";
 import Imperial from "./assets/ImpFallVid.mp4";
 import Redactor from "./assets/RedExpVid.mp4";
+import Norb from "./assets/NorbVid.mp4";
 
 const texts = [
   {
@@ -18,6 +19,13 @@ const texts = [
       "Echoes From The Past is a 2.5D Platform Local Co-op videogame. Players must solve puzzles to complete the history and save the world from robot rebellion. This game was awarded with best design at CITM game jam.<br/><br/> I was involved in level design, puzzle design, audio and gameplay programming.",
     img: EchVid,
     online: "https://nautilusstudios.itch.io/echoes-from-the-past",
+  },
+  {
+    title: "N'Orb",
+    description:
+      "N'Orb si a 2D platform video game featuring isometric gameplay sections with a personal pixel art, made by Nautilus Studios. Player must fight nightmares to catch a misterious light orb. This game was awarded with best game at CITM game jam.<br/><br/> I was involved in level design, audio and gameplay programming.",
+    img: Norb,
+    online: "https://nautilusstudios.itch.io/norb",
   },
   {
     title: "VR Defense",
